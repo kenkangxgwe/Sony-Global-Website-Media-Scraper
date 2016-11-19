@@ -40,7 +40,7 @@ def unzip(path, target):
 def move(path, target):
     if os.path.exists(path):
         print('Moving ' + path + ' to ' + target + ' ...')
-        os.rename(path, target + '\\')
+        os.rename(path, target + '\\' + path.split('\\')[-1])
 
 fpfilename = lambda id, num : id + '_3840_2160_fp_' + num 
 ssfilename = lambda id, num : id + '_3840_2160_ss_' + num 
