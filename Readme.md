@@ -9,7 +9,7 @@ python Heritage.py
 ```
 
 ## What happened?
-All the media will be downloaded into different folders with its own location name (actually its id).  
+All the media will be downloaded into different folders with their own location name (actually their id).  
 Each location includes 12 photographs took in the same place in various time, 10 other extra photographs in different aspects, and also a .json file for a brief introduction of the location.  
 Some locations also provide soundscapes.  
 All the theme songs were put in the `Theme Song of World Heritage` folder.
