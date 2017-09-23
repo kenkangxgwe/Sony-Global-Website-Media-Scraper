@@ -1,5 +1,5 @@
 # A Sony Global Website Media Scraper
-This python scripts download the photographs in the highest resolution and the sound scape and background music of all the locations in [Sony Global - alpha CLOCK: WORLD TIME, CAPTURED BY alpha](www.sony.net/united/clock/).
+This python script downloads the photographs in the highest resolution and the sound scapes and theme songs of all the locations in [Sony Global - alpha CLOCK: WORLD TIME, CAPTURED BY alpha](http://www.sony.net/united/clock/).
 
 ## Usage
 1. The script needs `PyV8` to evaluate the javascript code. Please download it from [Google Code Archive](https://code.google.com/archive/p/pyv8/downloads)
